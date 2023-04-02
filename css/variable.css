@@ -1,0 +1,11 @@
+:root {
+    --header-bg: #1DA1F2;
+    --header-nav-color: #F3FAFE;
+    --header-nav-color-hover: #005e98;
+    --header-logo-color: #F3FAFE;
+    --header-sign-up-color: #F3FAFE;
+    --header-sign-up-color-hover: #005e98;
+    --header-links-size: 13px;
+    --footer-bg: #1DA1F2;
+    --footer-color: #F3FAFE;
+}
